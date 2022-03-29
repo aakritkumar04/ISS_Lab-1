@@ -1,2 +1,9 @@
+other_details
+
  Branch: CSE
  Roll: 2021101085
+=======
+
+Roll: 2021101085
+ Branch: CSE
+master
